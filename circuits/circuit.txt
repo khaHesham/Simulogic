@@ -1,0 +1,8 @@
+3
+SWITCH	1	empty	194	284
+AND2	1	empty	807	278
+AND2	0	empty	334	483
+Connections
+1  0  1
+0  1  1
+-1

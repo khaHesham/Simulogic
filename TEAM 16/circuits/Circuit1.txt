@@ -1,0 +1,14 @@
+5
+NOR3	1	empty	397	337
+LED	3	empty	571	334
+SWITCH	4	empty	139	314
+SWITCH	5	empty	239	363
+INV	6	empty	226	290
+SWITCH	5	empty	299	396
+Connections
+4  6  1
+6  1  1
+5  1  2
+5  1  3
+1  3  1
+-1

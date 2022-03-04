@@ -1,0 +1,14 @@
+6
+NAND2	1	empty	319	336
+OR2	2	empty	449	349
+LED	3	empty	584	343
+SWITCH	4	empty	215	316
+SWITCH	5	empty	208	364
+SWITCH	6	empty	350	404
+Connections
+4  1  1
+5  1  2
+1  2  1
+6  2  2
+2  3  1
+-1
